@@ -1,0 +1,75 @@
+main{
+    background-color: #eeeeee;
+    height: 70vh;
+}
+
+#login-area{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 40%;
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    height: 40%;
+}
+
+#mov-log1{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 15%;
+    color: tomato;
+}
+
+#log1{
+    position: absolute;
+    border: none;
+    border-bottom: tomato 1px solid;
+    font-size: 130%;
+    margin-top: 35%;
+    margin-left: 15%;
+}
+
+#mov-senha1{
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 15%;
+    color: tomato;
+}
+
+#senha1{
+    position: absolute;
+    border: none;
+    border-bottom: tomato 1px solid;
+    font-size: 130%;
+    margin-top: 60%;
+    margin-left: 15%;
+}
+
+#login-title{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 14%;
+    font-size: 150%;
+}
+
+#cadas1{
+    position: absolute;
+    margin-top: 73%;
+    margin-left: 15%;
+    text-decoration: none;
+    color: tomato;
+}
+
+#cadas1:hover{
+    color: rgba(255, 99, 71, 0.315);
+}
+
+#en2{
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 65%;
+    background-color: tomato;
+    font-size: 100%;
+    color: white;
+    border: none;
+}

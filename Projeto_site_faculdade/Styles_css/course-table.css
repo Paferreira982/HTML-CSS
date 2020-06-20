@@ -1,0 +1,384 @@
+#main2{
+    height: 130vh;
+    background-image: url(../Imagens/fundo-main-3.jpg);
+}
+
+#titulacao{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 6%;
+    margin-top: 8%;
+}
+
+#dura1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 6%;
+    margin-top: 18%;
+}
+
+#next-turma1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 6%;
+    margin-top: 28%;
+}
+
+#unidade1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 40%;
+    margin-top: 8%;
+}
+
+#turno1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 40%;
+    margin-top: 18%;
+}
+
+#hora1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 40%;
+    margin-top: 28%;
+}
+
+#inv1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 74%;
+    margin-top: 8%;
+}
+
+#bach1{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 6%;
+    margin-top: 11%;
+    color: white;
+}
+
+#dura2{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 6%;
+    margin-top: 21%;
+    color: white;
+}
+
+#next-turma2{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 6%;
+    margin-top: 31%;
+    color: white;
+}
+
+#unidade2{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 40%;
+    margin-top: 11%;
+    color: white;
+}
+
+#turno2{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 40%;
+    margin-top: 21%;
+    color: white;
+}
+
+#hora2{
+    position: absolute;
+    font-size: 81.25%;
+    margin-left: 40%;
+    margin-top: 31%;
+    color: white;
+}
+
+#inv2{
+    position: absolute;
+    font-size: 81.25%;
+    font-weight: 800;
+    margin-left: 74%;
+    margin-top: 11%;
+    color: white;
+}
+
+#inv3{
+    position: absolute;
+    font-size: 81.25%;
+    font-weight: 800;
+    margin-left: 74%;
+    margin-top: 28%;
+    color: white;
+}
+
+.text-basic2{
+    font-family: 'Titillium Web',sans-serif;
+    font-weight: 800;
+    color: #df2544;
+}
+
+.text-basic{
+    font-family: 'Titillium Web',sans-serif;
+    font-weight: 800;
+}
+
+#cont-1{
+    position: absolute;
+    margin-left: 37.5%;
+    border: none;
+    background-color: #692644;
+    width: 40%;
+    height: 40%;
+}
+
+#reco-1{
+    position: absolute;
+    margin-left: 22.5%;
+    border: none;
+    background-color: #0d9bba;
+    width: 15%;
+    height: 40%;
+}
+
+#star{
+    width: 8%;
+    margin-left: 46%;
+    margin-top: 12%;
+}
+
+#h5-text1{
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+}
+
+#sub-text1{
+    color: white;
+    font-size: 75%;
+    margin-top: 20%;
+}
+
+#sub-title1{
+    position: absolute;
+    color: #73747f;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+#title1{
+    position: absolute;
+    color: #a01f22;
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+.small-hr-blue{
+    border: none;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 4.4%;
+    background-color: #0fadcf;
+    width: 40px;
+    height: 6px;
+}
+
+#con-5{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 18.6%;
+    width: 5%;
+    transition-duration: 0.3s;
+}
+
+#con-5:hover{
+    margin-top: 5.8%;
+    margin-left: 18.4%;
+    width: 5.5%;
+}
+
+#p-text1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 106.25%;
+    color: #212146;
+}
+
+#p-text1-mv{
+    position: absolute;
+    width: 30%;
+    margin-top: 6%;
+    margin-left: 25%;
+}
+
+.turn-amarelo{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: #e7be32;
+    font-size: 62.5%;
+}
+
+#manha{
+    margin-left: 74%;
+    margin-top: 13.5%;
+}
+
+#manha2{
+    margin-left: 74%;
+    margin-top: 30.6%;
+}
+
+#noite{
+    margin-left: 74%;
+    margin-top: 18.5%;
+}
+
+#noite2{
+    margin-left: 74%;
+    margin-top: 35.5%;
+}
+
+#price1{
+    position: absolute;
+    font-size: 93.75%;
+    margin-left: 74%;
+    margin-top: 15.5%;
+    font-weight: 800;
+    color: white;
+}
+
+#price2{
+    position: absolute;
+    font-size: 93.75%;
+    margin-left: 74%;
+    margin-top: 20.5%;
+    font-weight: 800;
+    color: white;
+}
+
+#price3{
+    position: absolute;
+    font-size: 93.75%;
+    margin-left: 74%;
+    margin-top: 32.5%;
+    font-weight: 800;
+    color: white;
+}
+
+#price4{
+    position: absolute;
+    font-size: 93.75%;
+    margin-left: 74%;
+    margin-top: 37.3%;
+    font-weight: 800;
+    color: white;
+}
+
+#bot-ins2-text{
+    text-decoration: none;
+    font-weight: 800;
+}
+
+#bot-ins2{
+    margin-left: 22%;
+    margin-top: 41.5%;
+    border: #df2544 solid 2px;
+    background-color: none;
+    color: #df2544;
+    border-radius: 100px;
+    width: 250px;
+    height: 30px;
+    padding-top: 10px;
+    transition-duration: 0.4s;
+    text-align: center;
+}
+
+#bot-ins2:hover{
+    background-color: #df2544;
+    color: white;
+}
+
+#imagem-fundo-1{
+    position: absolute;
+    width: 10%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+#fx-salarial1{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 34.8%;
+}
+
+#title2{
+    position: absolute;
+    margin-top: 38.5%;
+    margin-left: 45.5%;
+    font-family: 'Titillium Web',sans-serif;
+    font-weight: 800;
+    color: #ef4131;
+    font-size: 131.25%;
+}
+
+#salario-ini{
+    position: absolute;
+    font-size: 18px;
+    font-weight: 800;
+    margin-left: 54%;
+    margin-top: 43%;
+    color: white;
+}
+
+#salario-med{
+    position: absolute;
+    font-size: 112.5%;
+    font-weight: 800;
+    margin-left: 54%;
+    margin-top: 46%;
+    color: white;
+}
+
+#salario-sen{
+    position: absolute;
+    font-size: 112.5%;
+    font-weight: 800;
+    margin-left: 54%;
+    margin-top: 48.9%;
+    color: white;
+}
+
+#price5{
+    position: absolute;
+    font-size: 106.25%;
+    margin-left: 54%;
+    margin-top: 44%;
+    color: white;
+}
+
+#price6{
+    position: absolute;
+    font-size: 106.25%;
+    margin-left: 54%;
+    margin-top: 47%;
+    color: white;
+}
+
+#price7{
+    position: absolute;
+    font-size: 106.25%;
+    margin-left: 54%;
+    margin-top: 49.9%;
+    color: white;
+}
+
+#A{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 80%;
+}

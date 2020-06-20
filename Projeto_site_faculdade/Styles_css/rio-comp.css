@@ -1,0 +1,60 @@
+#main-1{
+    background-image: url(../Imagens/fundo-main-10.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+}
+
+#main-2{
+    height: 80vh;
+}
+
+#rio-comp{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 3%;
+}
+
+#map-title{
+    position: absolute;
+    font-size: 160%;
+    color: #ef4131;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+#ond-rox{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 28%;
+}
+
+#end1{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 25%;
+}
+
+.p-text5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    color: #212146;
+    position: absolute;
+}
+
+#p-t1{
+    margin-top: 13.5%;
+    margin-left: 25%;
+    width: 15%;
+}
+
+#end2{
+    position: absolute;
+    margin-top: 19%;
+    margin-left: 25%;
+}
+
+#p-t2{
+    margin-top: 20.5%;
+    margin-left: 25%;
+    width: 15%;
+}

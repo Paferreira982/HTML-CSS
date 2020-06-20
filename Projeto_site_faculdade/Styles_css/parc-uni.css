@@ -1,0 +1,201 @@
+#main1{
+    background-image: url(../Imagens/fundo_main.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+#main3{
+    background-image: url(../Imagens/fundo-main-9.jpg);
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+
+#icon1{
+    position: absolute;
+    margin-left: 57%;
+    margin-top: 2%;
+    width: 8%;
+    transition: 0.3s;
+}
+
+#icon1:hover{
+    width: 8.5%;
+    margin-left: 56.8%;
+    margin-top: 1.8%;
+}
+
+#icon2{
+    position: absolute;
+    margin-left: 71%;
+    margin-top: 1.4%;
+    width: 8%;
+    transition: 0.3s;
+}
+
+#icon2:hover{
+    width: 8.5%;
+    margin-left: 70.9%;
+    margin-top: 1.3%;
+}
+
+#icon3{
+    position: absolute;
+    margin-left: 86%;
+    margin-top: 1.4%;
+    width: 7%;
+    transition: 0.3s;
+}
+
+#icon3:hover{
+    width: 7.5%;
+    margin-left: 85.9%;
+    margin-top: 1.3%;
+}
+
+#seta1{
+    position: absolute;
+    margin-left: 67%;
+    margin-top: 3.8%;
+    width: 2%;
+}
+
+#seta2{
+    position: absolute;
+    margin-left: 81.5%;
+    margin-top: 3.8%;
+    width: 2%;
+}
+
+#sub-title2{
+    position: absolute;
+    color: #73747f;
+    margin-top: 7.8%;
+    margin-left: 58%;
+}
+
+#sub-title3{
+    position: absolute;
+    color: #73747f;
+    margin-top: 7.8%;
+    margin-left: 71.5%;
+}
+
+#sub-title4{
+    position: absolute;
+    text-align: center;
+    color: #73747f;
+    width: 15%;
+    margin-top: 7.8%;
+    margin-left: 82%;
+}
+
+#title3{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 20%;
+    font-family: 'Titillium Web',sans-serif;
+    font-weight: 800;
+    color: #ef4131;
+    font-size: 131.25%;
+}
+
+.input-base{
+    position: absolute;
+    background-color: #e4e4e4;
+    border-radius: 5%;
+    margin-left: 20%;
+    margin-top: 24%;
+    font-size: 110%;
+}
+
+#nome1{
+    width: 14%;
+}
+
+.text-insc1{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 23%;
+    font-family: 'Titillium Web',sans-serif;
+    font-weight: 800;
+    color: #73747f;
+    font-size: 70%;
+}
+
+#mov-CPF{
+    margin-left: 36%;
+}
+
+#CPF{
+    margin-left: 36%;
+}
+
+#mov-tel{
+    margin-left: 49.3%;
+}
+
+#tel1{
+    margin-left: 49.3%;
+}
+
+#mov-unidade1{
+    margin-left: 63%;
+}
+
+#unidade1{
+    margin-left: 63%;
+    margin-top: 24%;
+    font-size: 110%;
+}
+
+#mov-email{
+    margin-top: 28%;
+}
+
+#email1{
+    margin-top: 29%;
+    width: 14%;
+}
+
+#mov-RG1{
+    margin-top: 28%;
+    margin-left: 36%;
+}
+
+#RG1{
+    margin-top: 29%;
+    margin-left: 36%;
+}
+
+#mov-sexo1{
+    margin-top: 28%;
+    margin-left: 49.3%;
+}
+
+#sexo1{
+    margin-top: 29%;
+    margin-left: 49.3%;
+    width: 11.5%;
+}
+
+#mov-curso1{
+    margin-top: 28%;
+    margin-left: 63%;
+}
+
+#curso1{
+    margin-top: 29%;
+    margin-left: 63%;
+    width: 17%;
+}
+
+#enviar1{
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 76.8%;
+    background-color: #ef4131;
+    border: 1px solid black;
+    color: white;
+    font-size: 100%;
+}

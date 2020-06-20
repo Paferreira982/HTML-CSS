@@ -1,0 +1,189 @@
+#main-1{
+    background-image: url(../Imagens/fundo-main-10.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+
+#main-2{
+    height: 80vh;
+}
+
+#main3{
+    height: 100vh;
+}
+
+#img2{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 30%;
+}
+
+#img3{
+    margin-left: 4%;
+    margin-top: 5%;  
+}
+
+#div-2{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 5%;
+    width: 25%;
+    height: 45%;
+    text-align: center;
+}
+
+#p-text2{
+    margin-top: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 106%;
+    color: #212146;
+}
+
+.galeria1{
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    overflow-y: hidden;
+}
+
+#lista1{
+    width: 50%;
+    list-style: none;
+    display: flex;
+}
+
+#bg1{
+    margin-left: 18%;
+    width: 69%;
+    height: 25%;
+    background-color: #0d9bba;
+}
+
+.mini{
+    margin-left: 0%;
+    margin-top: 5%;
+    width: 300px;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.mini:hover{
+    width: 320px;
+    margin-left: -2%;
+    margin-top: 3%;
+}
+
+.galeria1:target{
+    opacity: 1;
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(10, 10, 10, 0.7);
+    position: fixed;
+    z-index: 15;
+}
+
+.galeria1:target .caixa-img img{
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.caixa-img{
+    width: 1000px;
+    margin: 150px auto;
+}
+
+.caixa-img img{
+    opacity: 0;
+}
+
+.bot{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    width: 70px;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+}
+
+#ant{
+    left: 15%;
+    top: 45%;
+}
+
+#prox{
+    right: 15%;
+    top: 45%;
+}
+
+#fch{
+    top: 8%;
+    right: 5%;
+}
+
+#title-foto1{
+    position: absolute;
+    margin-left: 48%;
+    margin-top: -6.5%;
+    font-size: 160%;
+    color: #ef4131;
+}
+
+#ond1{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -4%;
+}
+
+#video1{
+    background-color: #692644;
+    width: 69%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    margin-left: 18%;
+}
+
+#video2{
+    margin-left: 41%;
+    border: 5px solid #ef4131;
+}
+
+#video-title{
+    position: absolute;
+    margin-left: 8.5%;
+    color: white;
+    font-size: 130%;
+}
+
+#p-text3{
+    position: absolute;
+    margin-top: 9%;
+    margin-left: 4%;
+    text-align: center;
+    width: 20%;
+    color: white;
+}
+
+#verm1{
+    position: absolute;
+    margin-left: 11.3%;
+    margin-top: 3%;
+}
+
+#img-fundo2{
+    position: absolute;
+    margin-top: 22%;
+    margin-left: -4%;
+}
+
+#audio1{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 6%;
+}
