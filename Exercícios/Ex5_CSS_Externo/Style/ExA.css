@@ -1,0 +1,49 @@
+.g1{
+    position: absolute;
+    color: white;
+    font-family: cursive;
+}
+
+.p1{
+    color: rgb(1, 251, 1);
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(0, 80, 0, 0.616);
+}
+
+.p2{
+    color: rgb(1, 180, 251);
+    font-size: 26px;
+    text-align: center;
+    background-color: rgba(0, 37, 80, 0.616);
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+header{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    font-size: 25px;
+    -webkit-text-stroke:black 3px;
+}
+
+main{
+    margin-top: 200px;
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+}
+
+#section1{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+}

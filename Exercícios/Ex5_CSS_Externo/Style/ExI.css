@@ -1,0 +1,18 @@
+body{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    background-color: peru
+}
+
+main{
+    border: 3px solid black;
+    padding: 20px;
+    text-align: center;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 10%;
+    background-color: blanchedalmond;
+    width: 20%;
+    height: auto;
+}

@@ -1,0 +1,82 @@
+body{
+    border: 0px;
+    margin: 0px;
+    padding: 6px;
+    background-color: rgb(92, 78, 78);
+}
+
+#idiv0{
+    margin-left: 20%;
+}
+
+#idiv1{
+    color: black;
+    border: 4px black solid;
+    position: absolute;
+    border-bottom: 0px;
+    width: 30%;
+    height: auto;
+    margin-left: 10.2%;
+    background-color: rgb(222, 223, 224);
+}
+
+#idiv2{
+    color: black;
+    border: 4px black solid;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: absolute;
+    width: 30%;
+    height: auto;
+    margin-top: 205px;
+    margin-left: 10.2%;
+    background-color: rgb(222, 223, 224);
+}
+
+#idiv3{
+    color: black;
+    border: 4px black solid;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: absolute;
+    width: 30%;
+    height: auto;
+    margin-top: 363px;
+    margin-left: 10.2%;
+    background-color: rgb(222, 223, 224);
+}
+
+#idiv4{
+    color: black;
+    border: 4px black solid;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: absolute;
+    width: 30%;
+    height: auto;
+    margin-top: 575px;
+    margin-left: 10.2%;
+    background-color: rgb(222, 223, 224);
+}
+
+#idiv5{
+    color: black;
+    border: 4px black solid;
+    border-top: 0px;
+    position: absolute;
+    width: 30%;
+    height: auto;
+    margin-top: 715px;
+    margin-left: 10.2%;
+    background-color: rgb(222, 223, 224);
+}
+
+#text2{
+    margin: auto; 
+    font-family: cursive;
+    text-align: center;
+}
+
+.text1{
+    margin-left: 10px;
+}
